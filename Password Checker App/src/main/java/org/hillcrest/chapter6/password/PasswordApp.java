@@ -1,3 +1,5 @@
+package org.hillcrest.chapter6.password;
+
 import java.util.Scanner;
 
 public class PasswordApp {

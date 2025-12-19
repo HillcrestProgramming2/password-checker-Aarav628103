@@ -1,3 +1,5 @@
+package org.hillcrest.chapter6.password;
+
 public class CriteriaChecker {
 
     public boolean[] checkPassword(String password) {
